@@ -13,6 +13,7 @@ name_channel = 'PEREEZD NAHUI!'
 name_guild = 'PEREEZD'
 description_guild = ''
 role_name = 'Huesosi'
+admin_ids = [537677794285715486,1202387312672116736]
 
 discord_link = 'Link'
 
